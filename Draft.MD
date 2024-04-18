@@ -4,7 +4,7 @@ This is a simple demo that deploys the canonical [OWASP Juice Shop application](
 
 After Deployment, we will integrate the [FortiDAST](https://www.fortinet.com/products/dynamic-application-security-testing) solution to scan for known vulnerabilities. 
 
-After completing this Hands On Lab, you can follow up with the [next lab](#) showing how to protect this environment using FortiWeb Cloud WAF.  
+After completing this Hands-on Lab, you can follow up with the [next lab](#), which shows how to protect this environment using [FortiWeb Cloud WAF as a Service Solution](https://www.fortiweb-cloud.com/index/login).  
 
 ## 👩‍💻 Pre-Requisites
 
