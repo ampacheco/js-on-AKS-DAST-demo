@@ -1,1 +1,1 @@
-(Reference)[https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-new#code-try-0]
+[Reference](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-new#code-try-0)
