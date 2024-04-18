@@ -1,6 +1,6 @@
 # 🎓 Dynamic Application Security Testing - DAST Lab
 
-This is a simple demo that deploys the canonical OWASP Juice Shop vulnerability application (https://owasp.org/www-project-juice-shop/) in Azure Kubernetes Services [AKS] using the Azure Application Gateway Ingress Controller  [AGIC].
+This is a simple demo that deploys the canonical [OWASP Juice Shop application](https://owasp.org/www-project-juice-shop/)(the most modern and sophisticated insecure web application) in Azure Kubernetes Services [AKS] using the Azure Application Gateway Ingress Controller  [AGIC].
 
 After Deployment, we will integrate the FortiDAST solution to scan for known vulnerabilities. 
 
