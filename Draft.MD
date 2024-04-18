@@ -2,7 +2,7 @@
 
 This is a simple demo that deploys the canonical [OWASP Juice Shop application](https://owasp.org/www-project-juice-shop/) (the most modern and sophisticated insecure web application) in [Azure Kubernetes Services](https://azure.microsoft.com/en-us/products/kubernetes-service) using the [Azure Application Gateway Ingress Controller](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview)
 
-After Deployment, we will integrate the FortiDAST solution to scan for known vulnerabilities. 
+After Deployment, we will integrate the [FortiDAST](https://fortidast.fortinet.com) solution to scan for known vulnerabilities. 
 
 After completing this Handsonlab, you can follow up with the next lab showing how to protect this environment using FortiWeb Cloud WAF.  
 
