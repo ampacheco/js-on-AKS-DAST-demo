@@ -1,6 +1,10 @@
-# 🎓 FortidevSec™ Fundamentals 
+# 🎓 Dynamic Application Security Testing - DAST Lab
 
-Welcome to FortiDevSec simple demo. A half-hour workshop to demonstrate how easy it can be to create a GitHub actions workflow that aggregates a security layer to your current DevOps practice.
+This is a simple demo that deploys the canonical OWASP Juice Shop vulnerability application (https://owasp.org/www-project-juice-shop/) in Azure Kubernetes Services [AKS] using the Azure Application Gateway Ingress Controller  [AGIC].
+
+After Deployment, we will integrate the FortiDAST solution to scan for known vulnerabilities. 
+
+After completing this Handsonlab, you can follow up with the next lab showing how to protect this environment using FortiWeb Cloud WAF.  
 
 ## 👩‍💻 Pre-Requisites
 
