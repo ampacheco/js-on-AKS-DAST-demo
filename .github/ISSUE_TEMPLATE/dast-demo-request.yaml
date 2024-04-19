@@ -1,6 +1,6 @@
 name: Request a FortiDAST Trial or guided Demo Environment 
 description: Please, fill fields below
-title: "[Bug]: "
+Project Name: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
