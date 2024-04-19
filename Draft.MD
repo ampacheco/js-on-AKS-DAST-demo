@@ -10,6 +10,7 @@ After completing this Hands-on Lab, you can follow up with the [next lab](#), wh
 
 1. Request a [FortiDAST Trial Environment](https://www.fortinet.com/products/dynamic-application-security-testing) in the cloud of your preference, or submitting an issue for a guided demo [new issue](https://github.com/ampacheco/js-on-AKS-DAST-demo/issues/new/choose) 
 1. An [Azure Subscriptions](https://azure.microsoft.com/en-us/free/) to deploy the canonical [OWASP Juice Shop application](https://owasp.org/www-project-juice-shop/) in [Azure Kubernetes Services](https://azure.microsoft.com/en-us/products/kubernetes-service)
+
 <p><br/>
     
 ## 📋 Table of contents
