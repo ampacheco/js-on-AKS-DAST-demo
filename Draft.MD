@@ -23,7 +23,7 @@ After completing this Hands-on Lab, you can follow up with the [next lab](#), wh
 1. [Test The Application Deployment](#4-the-sast-job)
 1. [Onboard the Application on FortiDAST](#5-deploy-the-aplication-to-aci)
 1. [Update A and TXT records in your DNS Service to authorize FortiDAST Service point to your Application](#6-the-dast-job)
-1. [Authorize and Start and Scan](#6-the-dast-job)
+1. [Authorize and Start a Scan](#6-the-dast-job)
 
 <p><br/>
     
