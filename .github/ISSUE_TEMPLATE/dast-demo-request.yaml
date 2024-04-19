@@ -23,7 +23,7 @@ body:
     attributes:
       label: Application Description
       description: General Description of your application!!! Do not provide links to your application; this is a public site. 
-      placeholder:
+      placeholder: WWWW WWWWW
       value: "A node JS application running on Azure AKS, AGIC as AKS Ingress."
     validations:
       required: true
