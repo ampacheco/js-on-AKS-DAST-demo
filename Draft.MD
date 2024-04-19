@@ -13,16 +13,17 @@ After completing this Hands-on Lab, you can follow up with the [next lab](#), wh
 
 <p><br/>
     
-## 📋 Table of contents
+## 📋 Table of Contents
 
 <img src="https://avatars.githubusercontent.com/u/39314919?s=200&v=4" align="right" width="300px"/>
 
 1. [Objectives](#1-objectives)
-1. [TheFortiDevSec UI](#2-the-fortidevsec-ui)
-1. [The DevOps Workflow ](#3-the-devops-workflow)
-1. [The SAST Job](#4-the-sast-job)
-1. [Deploy the Application to ACI](#5-deploy-the-aplication-to-aci)
-1. [The Dast Job](#6-the-dast-job)
+1. [Deploy AKS using Azure Cloud Shell](#2-the-fortidevsec-ui)
+1. [Publish the Application using Azure Cloud Shell](#3-the-devops-workflow)
+1. [Test The Application Deployment](#4-the-sast-job)
+1. [Onboard the Application on FortiDAST](#5-deploy-the-aplication-to-aci)
+1. [Update A and TXT records in your DNS Service to authorize FortiDAST Service point to your Application](#6-the-dast-job)
+1. [Authorize and Start and Scan](#6-the-dast-job)
 
 <p><br/>
     
