@@ -8,7 +8,7 @@ After completing this Hands-on Lab, you can follow up with the [next lab](#), wh
 
 ## 👩‍💻 Pre-Requisites
 
-1. Request a FortiDAST Trial Environment, submitting this 
+1. Request a FortiDAST Trial Environment in the cloud of your preference, submitting this [new issue](/issues/choose) 
 1. A Github Account to [fork](https://github.com/ampacheco/dvwa-devsec-workshop/fork) this repository and runs github [actions](https://github.com/features/actions) 
 1. An [Azure Subscriptions](https://azure.microsoft.com/en-us/free/) to Deploy [Damn Vulnerable Web Application](https://github.com/digininja/DVWA) canonical app to demonstrate DAST feature. In this particular case, it deployed on [Azure Container Instances Service](https://azure.microsoft.com/en-us/products/container-instances).
 <p><br/>
