@@ -21,9 +21,9 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: Project Description
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
+      label: Application Description
+      description: General Description of your application!!! Do not provide links to your application; this is a public site. 
+      placeholder: A node JS application running on Azure AKS, AGIC as AKS Ingress.
       value: "A bug happened!"
     validations:
       required: true
